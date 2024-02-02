@@ -1,0 +1,10 @@
+# Please create 'itdc_config.yml' in this directory
+# with this format
+
+host: ""
+port: 
+user: ""
+password: ""
+database: ""
+
+directory_to_watch : ""
